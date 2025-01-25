@@ -14,7 +14,7 @@ def Binary_Search(arr,n,low,high):
         return -1
 
 arr = [1,2,3,4,5,6,7,8,9,10]
-n =9
+n =9 
 answer = Binary_Search(arr,n,0,len(arr)-1)
 if answer !=  -1:
     print("Element found")
