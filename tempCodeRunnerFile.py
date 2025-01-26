@@ -16,5 +16,9 @@
 
 # print(count)
 
-op = (8+9) //2
-print(op)
+# op = (8+9) //2
+# print(op)
+
+
+for i in range(10,0,-1):
+    print(i)
