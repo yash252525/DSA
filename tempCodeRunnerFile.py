@@ -19,6 +19,6 @@
 # op = (8+9) //2
 # print(op)
 
-
-for i in range(10,0,-1):
-    print(i)
+x = [1,2,3,4]
+for i in range(len(x)-1,-1,-1):
+    print(x[i])
